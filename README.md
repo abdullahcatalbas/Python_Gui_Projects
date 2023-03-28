@@ -1,2 +1,2 @@
-#Python Gui Project
+#Python Gui Projects
 
