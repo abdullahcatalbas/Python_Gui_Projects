@@ -1,3 +1,2 @@
-# python_exercise
+#Python Gui Project
 
-# I made gui exercises using graphics module.
